@@ -1,6 +1,6 @@
 /**
  *
- * Cache  : A Javascript Class for managing cache
+ * Cache  : A Javascript Object for managing cache
  *
  * @author  James Rickard <james@frodosghost.com>
  * @version 1.0
